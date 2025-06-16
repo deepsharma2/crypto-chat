@@ -1,4 +1,4 @@
-# 🪙 Conversational Crypto Web-Chat
+# 🪙 Crypto Web-Chat
 
 A mobile-friendly React-based crypto chatbot that fetches real-time market data, tracks your holdings, speaks responses aloud, and features a sleek chat UI. Built using Vite + Tailwind CSS + CoinGecko API.
 
